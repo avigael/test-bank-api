@@ -8,6 +8,6 @@ with open('accounts.json') as acc_data:
 def get_accounts(amount):
     accounts = []
     for i in range(0, amount):
-        acc = randint(1, 8)
+        acc = randint(0, 7)
         accounts.append(data[acc])
     return accounts
