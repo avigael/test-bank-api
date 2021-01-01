@@ -1,0 +1,42 @@
+[
+    {
+        "date": "2020-05-13T21:53:23.108Z",
+        "company": "Sample Company",
+        "amount": 1929.02
+    },
+    {
+        "date": "2020-03-06T04:13:46.257Z",
+        "company": "Sample & Sample LLC",
+        "amount": 2191.50
+    },
+    {
+        "date": "2020-05-13T21:53:23.108Z",
+        "company": "Abshire - Langworth",
+        "amount": 464.81
+    },
+    {
+        "date": "2020-03-06T04:13:46.257Z",
+        "company": "Ritchie and Sons",
+        "amount": 793.31
+    },
+    {
+        "date": "2020-04-24T12:03:38.370Z",
+        "company": "Witting, Gleichner and Tromp",
+        "amount": 408.37
+    },
+    {
+        "date": "2020-07-20T07:09:59.736Z",
+        "company": "Berge Group",
+        "amount": 513.31
+    },
+    {
+        "date": "2020-02-23T18:04:26.186Z",
+        "company": "Brakus and Sons",
+        "amount": 773.18
+    },
+    {
+        "date": "2020-03-26T15:05:34.658Z",
+        "company": "Howe LLC",
+        "amount": 111.16
+    }
+]
