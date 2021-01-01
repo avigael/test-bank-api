@@ -17,7 +17,7 @@ This API generates a list of account in the following format
 **Definition**
 
 `GET /api?amount={number}`
-note: only 8 accounts avalible
+note: only 8 accounts avaliable
 
 **Response**
 
