@@ -1,6 +1,6 @@
 # Test Bank API
 
-ULR http://avigael-test-bank-api.herokuapp.com/
+URL http://avigael-test-bank-api.herokuapp.com/
 
 This API generates a list of account in the following format
 
