@@ -1,4 +1,7 @@
 # Test Bank API
+
+ULR http://avigael-test-bank-api.herokuapp.com/
+
 This API generates a list of account in the following format
 
 ```json
@@ -13,7 +16,8 @@ This API generates a list of account in the following format
 
 **Definition**
 
-`GET /api?amount={amn ∈ [0, 8]}`
+`GET /api?amount={number}`
+note: only 8 accounts avalible
 
 **Response**
 
